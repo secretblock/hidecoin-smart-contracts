@@ -46,3 +46,15 @@ npm run deploy-hidecoin-mainnet
 | Name               | Address                                           | Explorer                                                                        |
 |--------------------|---------------------------------------------------|---------------------------------------------------------------------------------|
 | HideCoin         | 0xbC4d19D6Ab09Fafe720DB304faC0e9Ec941a932b        | https://bscscan.com/address/0xbC4d19D6Ab09Fafe720DB304faC0e9Ec941a932b |
+
+## Audit
+
+- [https://www.cyberscope.io/audits/hide](https://www.cyberscope.io/audits/hide)
+- [https://github.com/cyberscope-io/audits/blob/main/hide/audit.pdf](https://github.com/cyberscope-io/audits/blob/main/hide/audit.pdf)
+- [https://twitter.com/cyberscope_io/status/1785673962153824259](https://twitter.com/cyberscope_io/status/1785673962153824259)
+
+## Additional Resources
+
+- [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.25/)
+- [Hardhat Documentation](https://hardhat.org/docs)
+- [Cyberscope Documentation](https://docs.cyberscope.io/)
